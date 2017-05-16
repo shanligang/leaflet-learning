@@ -6,6 +6,7 @@
         "splitter",
         "mermaid"
     ],
+    "language": "zh-hans",
     "pluginsConfig": {
        "styles": {
             "website": "css/book.css"
