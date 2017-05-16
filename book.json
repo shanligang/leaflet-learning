@@ -3,6 +3,7 @@
 	"author": "shanligang",
 	"plugins": [
 		"-search",
+		"-lunr",
 		"github",
 		"splitter",
 		"mermaid",
