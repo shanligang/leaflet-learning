@@ -1,19 +1,5 @@
 # leaflet源码学习
 
-## Part I - Introduction
-* Really interesting
-    * Did you know?
-    * Oh yes
-        * I know!
-        * Quite
-    * Gosh
- 
-## Part 2 - Advanced
-* Right then
-* Let's get busy
-* No more mucking about
-* Of course
-
 * [介绍](README.md)
 * [leaflet整体介绍](howtouse/README.md)
   * [leaflet与其他地图框架的对比](howtouse/Nodejsinstall.md)
