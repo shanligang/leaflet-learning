@@ -36,6 +36,13 @@ table td {
 table thead td {
   font-weight: 700;
 }
+.summary ul > li:first-child{
+  display:none;
+}
+
+.divider {
+ display: none;
+}
 .sidebar {
   position: absolute;
   left: 0;
