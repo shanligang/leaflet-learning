@@ -7,7 +7,6 @@
         "splitter",
         "mermaid"
     ],
-
     "pluginsConfig": {
        "styles": {
             "website": "css/book.css"
