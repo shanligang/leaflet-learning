@@ -6,6 +6,9 @@
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
-        }
+        },
+         "disqus": {
+            "shortName": "gitbookuse"
+         }
     }
 }
