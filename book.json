@@ -5,7 +5,9 @@
         "-search",
         "github",
         "splitter",
-        "mermaid"
+        "mermaid",
+        "disqus"
+        
     ],
     "pluginsConfig": {
        "styles": {
