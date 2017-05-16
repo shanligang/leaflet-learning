@@ -1,33 +1,33 @@
 {
-    "language": "zh-hans",
-    "author": "shanligang",
-    "plugins": [
-        "-search",
-        "github",
-        "splitter",
-        "mermaid",
-        "disqus",
-        "advanced-emoji"
-    ],
-    "structure": {
-        "readme": "README.md"
-    },
-    "pluginsConfig": {
-       "styles": {
-            "website": "/css/book.css"
-        },
-       "theme-default": {
-	    "showLevel": true
+	"language": "zh-hans",
+	"author": "shanligang",
+	"plugins": [
+		"-search",
+		"github",
+		"splitter",
+		"mermaid",
+		"disqus",
+		"advanced-emoji"
+	],
+	"structure": {
+		"readme": "README.md"
 	},
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord" : ["Gitbook Use"]
-        },
-         "github": {
-            "url": "https://github.com/shanligang/leaflet-learning"
-        },
-         "disqus": {
-            "shortName": "gitbookuse"
-         }
-    }
+	"styles": {
+		"website": "/css/book.css"
+	},
+	"pluginsConfig": {
+		"theme-default": {
+			"showLevel": true
+		},
+		"search-pro": {
+			"cutWordLib": "nodejieba",
+			"defineWord": ["Gitbook Use"]
+		},
+		"github": {
+			"url": "https://github.com/shanligang/leaflet-learning"
+		},
+		"disqus": {
+			"shortName": "gitbookuse"
+		}
+	}
 }
