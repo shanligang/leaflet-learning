@@ -1,4 +1,5 @@
-基本安装
+leaflet简介
 ====
+![](/imgs/leaflet_logo.svg)
 
 本章内容讲述Gitbook的安装及命令行的功能快速预览说明。
