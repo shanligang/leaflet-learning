@@ -10,7 +10,7 @@
          "disqus": {
             "shortName": "gitbookuse"
          },
-         "mermaid",
+         "mermaid":{},
          "splitter"
     }
 }
