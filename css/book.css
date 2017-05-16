@@ -1,4 +1,6 @@
-a,
+a {
+    text-decoration: none;
+}
 a:visited,
 a:active,
 a:hover {
