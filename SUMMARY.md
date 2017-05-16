@@ -1,6 +1,6 @@
 # leaflet源码学习
 
-[介绍](README.md)
+* [介绍](README.md)
 * [leaflet整体介绍](howtouse/README.md)
   * [leaflet与其他地图框架的对比](howtouse/Nodejsinstall.md)
   * [leaflet源码开发环境部署](howtouse/gitbookcli.md)
