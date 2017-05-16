@@ -8,7 +8,8 @@
 		"github",
 		"splitter",
 		"mermaid",
-		"advanced-emoji"
+		"advanced-emoji",
+		"anchor-navigation-ex"
 	],
 	"structure": {
 		"readme": "README.md"
