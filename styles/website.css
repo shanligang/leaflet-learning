@@ -36,9 +36,6 @@ table td {
 table thead td {
   font-weight: 700;
 }
-.summary:first-child{
-  display:none;
-}
 
 .sidebar {
   position: absolute;
