@@ -8,7 +8,7 @@
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
         }
-    }
+    },
      "links": {
         "gitbook": false,
         "sharing": {
