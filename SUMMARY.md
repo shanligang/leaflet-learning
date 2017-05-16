@@ -11,11 +11,12 @@
 * [leaflet工具类](output/README.md)
   * [输出为静态网站](output/outfile.md)
   * [输出PDF](output/pdfandebook.md)
-* [leaflet地图渲染]
-  * [通过canvas渲染地图](publish/gitpages.md)
-  * [通过svg渲染地图](publish/gitbook.md)
+* [leaflet地图渲染](rendermap/rendermap.md)
+  * [Canvas渲染地图](rendermap/canvasrender.md)
+  * [SVG渲染地图](rendermap/svgrender.md)
+  * [WebGL渲染地图](rendermap/webglrender.md)
 * [leaflet](publish/README.md)
   * [发布到Github Pages](publish/gitpages.md)
   * [发布到GitBook](publish/gitbook.md)
-
 * [结束](end/README.md)
+
