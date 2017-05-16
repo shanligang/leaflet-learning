@@ -11,7 +11,7 @@
     ],
     "pluginsConfig": {
        "styles": {
-            "website": "css/book.css"
+            "website": "/css/book.css"
         },
        "theme-default": {
 	    "showLevel": true
