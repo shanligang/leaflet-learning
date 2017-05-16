@@ -1,7 +1,8 @@
-Gitbook安装
+leaflet简单demo
 ====
-leaflet加载google地图
-效果
+
+一、leaflet加载google地图
+效果如下：
 ![](/imgs/googlemap_leaflet.jpg)
 具体代码实现
 ```

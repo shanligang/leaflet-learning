@@ -2,9 +2,9 @@
 
 * [介绍](README.md)
 * [leaflet整体介绍](howtouse/README.md)
-  * [leaflet团队与发展历程](howtouse/Nodejsinstall.md)
+  * [leaflet与其他地图框架的对比](howtouse/Nodejsinstall.md)
   * [leaflet源码开发环境部署](howtouse/gitbookcli.md)
-  * [leaflet简单demo的使用](howtouse/gitbookinstall.md)
+  * [leaflet简单demo](howtouse/gitbookinstall.md)
 * [leaflet框架设计思想](howtouse/README.md)
   * [leaflet源码目录结构](howtouse/Nodejsinstall.md)
   * [leaflet简单demo的使用](howtouse/gitbookinstall.md)
