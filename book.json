@@ -10,9 +10,6 @@
 		"advanced-emoji",
 		"anchor-navigation-ex"
 	],
-	"styles": {
-		"website": "css/website.css"
-	},
 	"pluginsConfig": {
 		"theme-default": {
 			"showLevel": true
