@@ -16,7 +16,7 @@
   * [SVG渲染地图](rendermap/svgrender.md)
   * [WebGL渲染地图](rendermap/webglrender.md)
 * [leaflet插件](plugins/plugins.md)
-  * [发布到Github Pages](publish/gitpages.md)
+  * [发布到Githu](publish/gitpages.md)
   * [发布到GitBook](publish/gitbook.md)
 * [结束](end/README.md)
 
