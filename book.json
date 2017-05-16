@@ -8,7 +8,8 @@
 		"splitter",
 		"mermaid",
 		"advanced-emoji",
-		"anchor-navigation-ex"
+		"anchor-navigation-ex",
+		"theme-comscore"
 	],
 	"pluginsConfig": {
 		"theme-default": {
