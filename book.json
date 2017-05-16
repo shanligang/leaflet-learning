@@ -11,7 +11,7 @@
 		"anchor-navigation-ex"
 	],
 	"styles": {
-		"website": "css/book.css",
+		"website": "css/website.css",
 		"ebook": "css/book.css",
 	        "pdf": "css/book.css",
 	        "mobi": "css/book.css",
