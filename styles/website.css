@@ -98,7 +98,6 @@ table thead td {
   white-space: nowrap;
 }
 .page-wrapper {
-  position: absolute;
   overflow-y: auto;
   right: 0;
   top: 0;
