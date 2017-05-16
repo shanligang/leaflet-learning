@@ -4,7 +4,6 @@
 	"plugins": [
 		"-search",
 		"-lunr",
-		"theme-cuav",
 		"github",
 		"multipart",
 		"splitter",
@@ -12,13 +11,6 @@
 		"advanced-emoji",
 		"anchor-navigation-ex"
 	],
-	"styles": {
-	    "website": "styles/website.css",
-	    "ebook": "styles/ebook.css",
-	    "pdf": "styles/pdf.css",
-	    "mobi": "styles/mobi.css",
-	    "epub": "styles/epub.css"
-	},
 	"pluginsConfig": {
 		"theme-default": {
 		        "showLevel": true
