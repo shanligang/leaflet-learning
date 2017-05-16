@@ -100,7 +100,6 @@ table thead td {
 .page-wrapper {
   position: absolute;
   overflow-y: auto;
-  left: 315px;
   right: 0;
   top: 0;
   bottom: 0;
