@@ -5,7 +5,7 @@
 		"-search",
 		"-lunr",
 		"github",
-		"multipart"
+		"multipart",
 		"splitter",
 		"mermaid",
 		"advanced-emoji",
