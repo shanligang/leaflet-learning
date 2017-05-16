@@ -6,7 +6,8 @@
         "github",
         "splitter",
         "mermaid",
-        "disqus"   
+        "disqus",
+        "advanced-emoji"
     ],
     "pluginsConfig": {
        "styles": {
