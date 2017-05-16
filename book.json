@@ -2,7 +2,6 @@
 	"language": "zh-hans",
 	"author": "shanligang",
 	"plugins": [
-	       "search-plus",
 		"-search",
 		"-lunr",
 		"github",
@@ -31,6 +30,13 @@
 		},
 		"github": {
 			"url": "https://github.com/shanligang/leaflet-learning"
-		}
+		},
+		"anchor-navigation-ex": {
+	            "isRewritePageTitle": true,
+	            "isShowTocTitleIcon": true,
+	            "tocLevel1Icon": "fa fa-hand-o-right",
+	            "tocLevel2Icon": "fa fa-hand-o-right",
+	            "tocLevel3Icon": "fa fa-hand-o-right"
+	        }
 	}
 }
