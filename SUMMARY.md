@@ -1,10 +1,10 @@
 # Summary
 
 * [介绍](README.md)
-* [leaflet简介](howtouse/README.md)
+* [leaflet整体介绍](howtouse/README.md)
   * [leaflet团队与发展历程](howtouse/Nodejsinstall.md)
-  * [Gitbook安装](howtouse/gitbookinstall.md)
-  * [简单demo的使用](howtouse/gitbookcli.md)
+  * [leaflet简单demo的使用](howtouse/gitbookinstall.md)
+  * [leaflet源码的安装部署](howtouse/gitbookcli.md)
 * [leaflet面向对象编程的封装](book/README.md)
   * [README.md 与 SUMMARY编写](book/file.md)
   * [目录初始化](book/prjinit.md)
@@ -15,7 +15,7 @@
   * [Canvas渲染地图](rendermap/canvasrender.md)
   * [SVG渲染地图](rendermap/svgrender.md)
   * [WebGL渲染地图](rendermap/webglrender.md)
-* [leaflet](publish/README.md)
+* [leaflet插件](plugins/plugins.md)
   * [发布到Github Pages](publish/gitpages.md)
   * [发布到GitBook](publish/gitbook.md)
 * [结束](end/README.md)
