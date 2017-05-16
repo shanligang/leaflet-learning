@@ -1,11 +1,21 @@
 {
- "links": {
-    "gitbook": false,
-    "sharing": {
-      "google": false,
-      "facebook": false,
-      "twitter": false,
-      "all": false
+    "plugins": [
+        "-search",
+        "search-pro"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
     }
-  }
+     "links": {
+        "gitbook": false,
+        "sharing": {
+          "google": false,
+          "facebook": false,
+          "twitter": false,
+          "all": false
+        }
+      }
 }
