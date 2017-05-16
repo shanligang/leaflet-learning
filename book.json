@@ -1,10 +1,10 @@
 {
     "styles": {
-        "website": "css/book.css",
-        "ebook": "css/book.css",
-        "pdf": "css/book.css",
-        "mobi": "css/book.css",
-        "epub": "css/book.css"
+        "website": "/css/book.css",
+        "ebook": "/css/book.css",
+        "pdf": "/css/book.css",
+        "mobi": "/css/book.css",
+        "epub": "/css/book.css"
     },
     "plugins": [
         "-search",
