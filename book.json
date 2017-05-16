@@ -20,6 +20,7 @@
 	},
 	"pluginsConfig": {
 		"theme-default": {
+		       showLevel: true
 		},
 		"github": {
 			"url": "https://github.com/shanligang/leaflet-learning"
