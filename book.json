@@ -10,9 +10,6 @@
 		"advanced-emoji",
 		"anchor-navigation-ex"
 	],
-	"structure": {
-		"readme": "README.md"
-	},
 	"styles": {
 		"website": "css/book.css",
 		"ebook": "css/book.css",
