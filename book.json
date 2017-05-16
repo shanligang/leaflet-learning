@@ -2,12 +2,12 @@
 	"language": "zh-hans",
 	"author": "shanligang",
 	"plugins": [
+	       "search-plus",
 		"-search",
 		"-lunr",
 		"github",
 		"splitter",
 		"mermaid",
-		"disqus",
 		"advanced-emoji"
 	],
 	"structure": {
@@ -30,9 +30,6 @@
 		},
 		"github": {
 			"url": "https://github.com/shanligang/leaflet-learning"
-		},
-		"disqus": {
-			"shortName": "ligangshan"
 		}
 	}
 }
