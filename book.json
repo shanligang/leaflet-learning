@@ -11,7 +11,7 @@
 		"mermaid",
 		"advanced-emoji",
 		"anchor-navigation-ex",
-		"theme-comscore"
+		"theme-corezoid"
 	],
 	"styles": {
 	    "website": "styles/website.css",
@@ -35,4 +35,3 @@
 	            "tocLevel3Icon": "fa fa-hand-o-right"
 	        }
 	}
-}
