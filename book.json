@@ -4,7 +4,6 @@
 	"plugins": [
 		"-search",
 		"-lunr",
-		"theme-cuav",
 		"github",
 		"multipart",
 		"splitter",
