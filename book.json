@@ -6,8 +6,7 @@
         "github",
         "splitter",
         "mermaid",
-        "disqus"
-        
+        "disqus"   
     ],
     "pluginsConfig": {
        "styles": {
