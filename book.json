@@ -1,4 +1,5 @@
 {
+  
     "plugins": [
         "-search",
         "github",
@@ -6,6 +7,9 @@
         "mermaid"
     ],
     "pluginsConfig": {
+       "theme-default": {
+			"showLevel": true
+		},
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
