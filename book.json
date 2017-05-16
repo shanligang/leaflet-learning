@@ -9,6 +9,9 @@
         "disqus",
         "advanced-emoji"
     ],
+    "structure": {
+        "readme": "README.md"
+    },
     "pluginsConfig": {
        "styles": {
             "website": "/css/book.css"
