@@ -12,9 +12,6 @@ body {
 .hidden {
   display: none;
 }
-.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
-  padding-top: 2px;
-}
 h2,
 h3 {
   margin-top: 2.5em;
