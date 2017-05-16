@@ -9,6 +9,8 @@
         },
          "disqus": {
             "shortName": "gitbookuse"
-         }
+         },
+         "mermaid",
+         "splitter"
     }
 }
