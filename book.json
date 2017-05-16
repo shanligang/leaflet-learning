@@ -10,6 +10,9 @@
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
         },
+         "github": {
+            "url": "https://github.com/zhangjikai"
+        },
          "disqus": {
             "shortName": "gitbookuse"
          }
