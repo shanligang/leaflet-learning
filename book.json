@@ -1,6 +1,9 @@
 {
     "plugins": [
-        "-search"
+        "-search",
+        "github",
+        "splitter",
+        "mermaid"
     ],
     "pluginsConfig": {
         "search-pro": {
@@ -9,8 +12,6 @@
         },
          "disqus": {
             "shortName": "gitbookuse"
-         },
-         "mermaid":{},
-         "splitter":{}
+         }
     }
 }
