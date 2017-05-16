@@ -8,8 +8,8 @@
     ],
     "pluginsConfig": {
        "theme-default": {
-			"showLevel": true
-		},
+	    "showLevel": true
+	},
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
