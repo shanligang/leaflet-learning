@@ -8,11 +8,14 @@
 * [leaflet面向对象编程的封装](book/README.md)
   * [README.md 与 SUMMARY编写](book/file.md)
   * [目录初始化](book/prjinit.md)
-* [图书输出](output/README.md)
+* [leaflet工具类](output/README.md)
   * [输出为静态网站](output/outfile.md)
   * [输出PDF](output/pdfandebook.md)
-* [发布](publish/README.md)
+* [leaflet地图渲染]
+  * [通过canvas渲染地图](publish/gitpages.md)
+  * [通过svg渲染地图](publish/gitbook.md)
+* [leaflet](publish/README.md)
   * [发布到Github Pages](publish/gitpages.md)
   * [发布到GitBook](publish/gitbook.md)
-* [结束](end/README.md)
 
+* [结束](end/README.md)
