@@ -11,11 +11,7 @@
 		"anchor-navigation-ex"
 	],
 	"styles": {
-		"website": "css/website.css",
-		"ebook": "css/book.css",
-	        "pdf": "css/book.css",
-	        "mobi": "css/book.css",
-	        "epub": "css/book.css"
+		"website": "css/website.css"
 	},
 	"pluginsConfig": {
 		"theme-default": {
