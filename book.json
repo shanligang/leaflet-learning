@@ -21,7 +21,14 @@
 	},
 	"pluginsConfig": {
 		"theme-default": {
-		     "showLevel": true
+		        "showLevel": true,
+			"styles": {
+			    "website": "styles/website.css",
+			    "ebook": "styles/ebook.css",
+			    "pdf": "styles/pdf.css",
+			    "mobi": "styles/mobi.css",
+			    "epub": "styles/epub.css"
+			}
 		},
 		"github": {
 			"url": "https://github.com/shanligang/leaflet-learning"
