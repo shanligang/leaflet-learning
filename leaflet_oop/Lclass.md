@@ -2,8 +2,6 @@
 
 从技术角度将，Leaflet可以使用如下几种方式来扩展：
 
-
-
 * 最常用的方式：使用L.Class.extend\(\)创建L.Layer，L.Handler或者L.Control
 
     1.地图移动、缩放时Layer就会移动
